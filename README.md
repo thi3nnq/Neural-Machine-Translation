@@ -1,2 +1,2 @@
 # Neural-Machine-Translation
-NTM w
+NTM with Transformer Architecture
